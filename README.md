@@ -76,8 +76,7 @@ This script is for educational purposes only. Make sure to comply with X's Terms
 
 ## 📬 Contact & Community
 
-Join our music archiving community on Discord for support, discussions, and more cool projects:
-[![Discord Server](https://img.shields.io/discord/1385439874059866113?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)]([https://discord.gg/vhPkkXkPGP](https://discord.gg/vhPkkXkPGP))
+Join our music archiving community on Discord for support, discussions, and more cool projects: **https://discord.gg/vhPkkXkPGP**
 
 🎵 **Primarily focused on music preservation and archival**  
 🤝 **Get help with this project and others**  
